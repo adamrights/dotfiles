@@ -76,3 +76,6 @@
 
 [push]
 	default = simple
+[user]
+	name = Adam Bedell
+	email = adamrights@gmail.com
