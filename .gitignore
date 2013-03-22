@@ -2,8 +2,8 @@
 
 ### See how .zhistory syncs on dropbox and make it smarter/cleaner before adding
 *.zhistory
-
-
+$HOME/.zhistory
+*zhistory*
 ### for lenovo build some dotfiles will eventually be tracked; they exist as submodules 
 
 .ICEauthority
