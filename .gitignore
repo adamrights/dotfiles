@@ -4,6 +4,12 @@
 *.zhistory
 $HOME/.zhistory
 *zhistory*
+
+#.mozilla dotfiles 
+.mozilla
+#vim swap
+.vim/swaps/*
+
 ### for lenovo build some dotfiles will eventually be tracked; they exist as submodules 
 
 .ICEauthority
