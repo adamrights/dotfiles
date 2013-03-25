@@ -1,3 +1,6 @@
 [submodule ".zprezto"]
 	path = .zprezto
 	url = https://github.org/adamrights/zprezto 
+[submodule "spf13-vim"]
+	path = spf13-vim
+	url = https://github.com/adamrights/spf13-vim.git

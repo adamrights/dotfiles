@@ -9,33 +9,11 @@
 .vim/swaps/*
 
 ### for lenovo build some dotfiles will eventually be tracked; they exist as submodules 
-
-.ICEauthority
-.Xauthority
-.bash_history
-.bash_logout
-.bzr.log
-.cache/
-.config/
-.dbus/
-.dropbox/
-.esd_auth
-.gtk-bookmarks
-.local/
-.macromedia/
-.me/
-.npm/
-.pip/
-.pki/
-.ssh/
-.vim/.netrwhist
-.vim/backups/.netrwhist~
-.vim/swaps/.gitignore.swp
-.vim/swaps/.zhistory.swo
-.viminfo
-.xinitrc
-.zcompdump
-.zcompdump.zwc
+### Be smarter
+#
+*
+#
+#
 
 # these are just symlinks to my prezto fork runcoms
 .zlogin
