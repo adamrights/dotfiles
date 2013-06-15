@@ -75,7 +75,7 @@
 	insteadOf = "gist:"
 
 [push]
-	default = simple
+	default = matching
 [user]
 	name = Adam Bedell
 	email = adamrights@gmail.com
