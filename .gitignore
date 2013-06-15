@@ -27,15 +27,26 @@
 #.zprofile
 #.zshenv
 #.zshrc
-$HOME/Backups/*
-$HOME/Desktop/
-$HOME/Documents/
-$HOME/Downloads/
-$HOME/Dropbox/
-$HOME/Workspace/
-$HOME/Anki
-/.*/
-$HOME/Public
+Backups/*
+Desktop/*
+Documents/*
+Downloads/*
+Dropbox/*
+Music/*
+Pictures/*
+Workspace/*
+bin/*
+Anki/*
+code/*
+gh_favs/*
+my*/*
+node_modules/*
+Sites/*
+src/*
+share/*
+/home/adam/
+.*
+Public/*
 # Compiled Python files
 *.pyc
 
@@ -55,9 +66,9 @@ Thumbs.db
 .VirtualBox/
 .Xauthority
 .adobe/
-.android/
-.arduino/
-.arista/
+.android
+.arduino
+.arista
 .bash_history
 .bash_history~
 .bash_logout
@@ -162,3 +173,7 @@ Thumbs.db
 #	stock_kernel_no_Network_Manager_wait
 #	stock_kernel_no_flag_benchmark
 #	tmp/
+Videos/*
+VirtualBox VMs/*
+sketchbook/*
+tmp/*
