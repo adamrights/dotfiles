@@ -27,14 +27,14 @@
 #.zprofile
 #.zshenv
 #.zshrc
-$HOME/Backups
+$HOME/Backups/*
 $HOME/Desktop/
 $HOME/Documents/
 $HOME/Downloads/
 $HOME/Dropbox/
 $HOME/Workspace/
 $HOME/Anki
-$HOME/.*/
+/.*/
 $HOME/Public
 # Compiled Python files
 *.pyc
